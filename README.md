@@ -1,9 +1,13 @@
-# IPA-2018-Informatiker-EFZ-Applikationsentwicklung-Alpay-Yildirim 🖥🔟🛠⚙️💡
+# IPA 2018 Informatiker EFZ Applikationsentwicklung / <br />Alpay Yildirim 🖥🔟🛠⚙️💡
 
 ## Kurzfassung 🏷
 Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwicklung . <br />
-Note: 5,4 ( Dokumentation, Zeitplan, Präsentation) <br />
-Seitenanzahl Dokumentation : 134 Seiten
+Note: 5,4 (Dokumentation, Zeitplan, Präsentation) <br />
+Ort: Schweiz 🇨🇭, Kanton Aargau <br />
+Seitenanzahl Dokumentation : 134 Seiten <br />
+Sprache (Dokumentation / Zeitplan / Präsentation): Deutsch <br />
+Programmiersprache : C# / ASP.NET MVC <br />
+Webentwicklung (HTML / CSS / JavaScript) <br />
 
 ## Einleitung 📕
 
@@ -11,6 +15,6 @@ Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen ge
 
 ## Inhalt 📚
 
-- Dokumentation (IPA-2018-Alpay-Yildirim-Muster.pdf) 📘
-- Zeitplan (IPA-2018-Zeitplan.xlsx / IPA-2018-Zeitplan.pdf) 📗
-- Präsentation (IPA-2018-Präsentation.pdf) 📙
+- Dokumentation ([IPA-2018-Alpay-Yildirim-Muster.pdf](IPA-2018-Alpay-Yildirim-Muster.pdf)) 📘
+- Zeitplan ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
+- Präsentation ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf)) 📙
