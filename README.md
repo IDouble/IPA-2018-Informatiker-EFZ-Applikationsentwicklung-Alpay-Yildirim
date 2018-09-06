@@ -3,7 +3,9 @@
 ## Kurzfassung 🏷
 Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwicklung . <br />
 Note: 5,4 ( Dokumentation, Zeitplan, Präsentation) <br />
-Seitenanzahl Dokumentation : 134 Seiten
+Seitenanzahl Dokumentation : 134 Seiten <br />
+Programmiersprache : C# / ASP.NET MVC <br />
+Webentwicklung (HTML / CSS / JavaScript)
 
 ## Einleitung 📕
 
