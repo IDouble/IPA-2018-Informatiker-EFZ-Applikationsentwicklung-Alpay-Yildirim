@@ -2,10 +2,10 @@
 
 ## Kurzfassung 🏷
 Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwicklung . <br />
-Note: 5,4 ( Dokumentation, Zeitplan, Präsentation) <br />
+Note: 5,4 (Dokumentation, Zeitplan, Präsentation) <br />
 Ort: Schweiz 🇨🇭, Kanton Aargau <br />
 Seitenanzahl Dokumentation : 134 Seiten <br />
-Sprache ( Dokumentation / Zeitplan / Präsentation ): Deutsch <br />
+Sprache (Dokumentation / Zeitplan / Präsentation): Deutsch <br />
 Programmiersprache : C# / ASP.NET MVC <br />
 Webentwicklung (HTML / CSS / JavaScript) <br />
 
