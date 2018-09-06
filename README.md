@@ -15,6 +15,6 @@ Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen ge
 
 ## Inhalt 📚
 
-- Dokumentation (IPA-2018-Alpay-Yildirim-Muster.pdf) 📘
-- Zeitplan (IPA-2018-Zeitplan.xlsx / IPA-2018-Zeitplan.pdf) 📗
-- Präsentation (IPA-2018-Präsentation.pdf) 📙
+- Dokumentation ([IPA-2018-Alpay-Yildirim-Muster.pdf](IPA-2018-Alpay-Yildirim-Muster.pdf)) 📘
+- Zeitplan ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
+- Präsentation ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf)) 📙
