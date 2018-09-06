@@ -1,4 +1,4 @@
-# IPA-2018-Informatiker-EFZ-Applikationsentwicklung-Alpay-Yildirim 🖥🔟🛠⚙️💡
+# IPA 2018 Informatiker EFZ Applikationsentwicklung Alpay Yildirim 🖥🔟🛠⚙️💡
 
 ## Kurzfassung 🏷
 Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwicklung . <br />
