@@ -59,8 +59,8 @@ Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen ge
     - Freitag, 23.03.2018 (Halber Tag)  ***16***
   - Projekt  ***17***
     - Zusammenfassung (Kurzfassung)  ***17***
-      - Ausgangslage (kurze Ausgangssituation)  ******17***
-      - Umsetzung  ******17***
+      - Ausgangslage (kurze Ausgangssituation)  ***17***
+      - Umsetzung  ***17***
       - Ergebnis  ***17***
     - Einleitung  ***18***
     - Informieren  ***19***
