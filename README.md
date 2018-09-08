@@ -6,6 +6,7 @@ Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwic
 **Ort: Schweiz 🇨🇭**, Kanton Aargau <br />
 **Seitenanzahl Dokumentation : 134** Seiten <br />
 **Sprache (Dokumentation / Zeitplan / Präsentation): Deutsch** <br />
+**Projektmethode : IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten) <br />
 **Programmiersprache : C# / ASP.NET MVC** <br />
 Webentwicklung (HTML / CSS / JavaScript) <br />
 
