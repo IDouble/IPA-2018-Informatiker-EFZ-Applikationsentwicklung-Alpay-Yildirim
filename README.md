@@ -22,4 +22,8 @@ Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen ge
 
 ## Zeitplan 📗
 
+- **IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten)
+- Istzeit & Sollzeit
+- 2 Stunden Raster ( *1 Spalte = 2 Stunden (2h)* )
+
 ![IPA Zeitplan IPERKA / Date : 2018 / Autor : Alpay Yildirim (Informieren,Planen,Entscheiden,Realisieren,Kontrollieren,Auswerten)](IPA-2018-Zeitplan.png)
