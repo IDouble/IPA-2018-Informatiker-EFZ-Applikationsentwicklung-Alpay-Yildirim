@@ -17,5 +17,13 @@ Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen ge
 ## Inhalt 📚
 
 - **Dokumentation** ([IPA-2018-Alpay-Yildirim-Muster.pdf](IPA-2018-Alpay-Yildirim-Muster.pdf)) 📘
-- **Zeitplan** ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
+- **Zeitplan** ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.png](IPA-2018-Zeitplan.png) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
 - **Präsentation** ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf)) 📙
+
+## Zeitplan 📗
+
+- **IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten) (Phasen rechts (➡️) angegeben)
+- Istzeit (Rot) & Sollzeit (Violett) / Meilensteine (Grün)
+- 2 Stunden Raster ( *1 Spalte = 2 Stunden (2h)* )
+
+![IPA Zeitplan IPERKA / Date : 2018 / Autor : Alpay Yildirim (Informieren,Planen,Entscheiden,Realisieren,Kontrollieren,Auswerten)](IPA-2018-Zeitplan.png)
