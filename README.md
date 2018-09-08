@@ -1,8 +1,8 @@
 # IPA 2018 Informatiker EFZ Applikationsentwicklung / <br />Alpay Yildirim 🖥🔟🛠⚙️💡
 
 ## Kurzfassung 🏷
-Meine individuelle praktische Arbeit (IPA) / Informatiker EFZ Applikationsentwicklung . <br />
-**Note: 5,4** (Dokumentation, Zeitplan, Präsentation) <br />
+Meine individuelle praktische Arbeit (**IPA**) / **Informatiker EFZ Applikationsentwicklung** . <br />
+**Note: 5.4** (Dokumentation, Zeitplan, Präsentation) <br />
 **Ort: Schweiz 🇨🇭**, Kanton Aargau <br />
 **Seitenanzahl Dokumentation : 134** Seiten <br />
 **Sprache (Dokumentation / Zeitplan / Präsentation): Deutsch** <br />
@@ -12,7 +12,7 @@ Webentwicklung (HTML / CSS / JavaScript) <br />
 
 ## Einleitung 📕
 
-Dies ist meine individuelle praktische Arbeit (IPA), die ich 2018 in 10 Tagen geschrieben habe für den Informatiker EFZ Fachrichtung Applikationsentwicklung. Für die IPA habe ich eine Abschlussnote von 5,4 erhalten.<br /> Ich fand es schade das im Internet nur sehr alte IPAs vor Jahrzehnten vorhanden waren, deswegen hatte ich mich entschlossen meine hochzuladen nach Abschluss der Lehre.<br /> Alle Firmenlogos/Namen etc. wurden selbstverständlich entfernt.
+Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tagen geschrieben habe für den **Informatiker EFZ Fachrichtung Applikationsentwicklung**. Für die IPA habe ich eine Abschlussnote von **5.4** erhalten.<br /> Ich fand es schade das im Internet nur sehr alte IPAs vor Jahrzehnten vorhanden waren, deswegen hatte ich mich entschlossen meine hochzuladen nach Abschluss der Lehre.<br /> *Alle Firmenlogos/Namen etc. wurden selbstverständlich entfernt.*
 
 ## Inhalt 📚
 
