@@ -20,15 +20,14 @@ Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tage
 - **Zeitplan** ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.png](IPA-2018-Zeitplan.png) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
 - **Präsentation** ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf)) 📙
 
-## Zeitplan 📗
-
+## Zeitplan 📗 ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.png](IPA-2018-Zeitplan.png) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf))
 - **IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten) (Phasen rechts (➡️) angegeben)
 - Istzeit (Rot) & Sollzeit (Violett) / Meilensteine (Grün)
 -  2-Stundenblöcke ( *1 Spalte = 2 Stunden (2h)* )
 
 ![IPA Zeitplan IPERKA / Date : 2018 / Autor : Alpay Yildirim (Informieren,Planen,Entscheiden,Realisieren,Kontrollieren,Auswerten)](IPA-2018-Zeitplan.png)
 
-## Dokumentation 📘
+## Dokumentation 📘 ([IPA-2018-Alpay-Yildirim-Muster.pdf](IPA-2018-Alpay-Yildirim-Muster.pdf))
 
 ### Inhaltsverzeichnis
 - Vorwort ***5***
@@ -109,7 +108,7 @@ Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tage
        - Views (cshtml)  ***109***
 
 
-## Präsentation 📙
+## Präsentation 📙 ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf))
 
 ### Details
 
