@@ -2,10 +2,10 @@
 
 ## Kurzfassung 🏷
 Meine individuelle praktische Arbeit (**IPA**) / **Informatiker EFZ Applikationsentwicklung** . <br />
-**Note: 5.4** (Dokumentation, Zeitplan, Präsentation) <br />
-**Ort: Schweiz 🇨🇭**, Kanton Aargau <br />
+**Note : 5.4** (Dokumentation, Zeitplan, Präsentation) <br />
+**Ort : Schweiz 🇨🇭**, Kanton Aargau <br />
 **Seitenanzahl Dokumentation : 134** Seiten <br />
-**Sprache (Dokumentation / Zeitplan / Präsentation): Deutsch** <br />
+**Sprache (Dokumentation / Zeitplan / Präsentation) : Deutsch** <br />
 **Projektmethode : IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten) <br />
 **Programmiersprache : C# / ASP.NET MVC** <br />
 Webentwicklung (HTML / CSS / JavaScript) <br />
@@ -20,15 +20,14 @@ Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tage
 - **Zeitplan** ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.png](IPA-2018-Zeitplan.png) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf)) 📗
 - **Präsentation** ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf)) 📙
 
-## Zeitplan 📗
-
+## Zeitplan 📗 ([IPA-2018-Zeitplan.xlsx](IPA-2018-Zeitplan.xlsx) / [IPA-2018-Zeitplan.png](IPA-2018-Zeitplan.png) / [IPA-2018-Zeitplan.pdf](IPA-2018-Zeitplan.pdf))
 - **IPERKA** -> (**I**nformieren,**P**lanen,**E**ntscheiden,**R**ealisieren,**K**ontrollieren,**A**uswerten) (Phasen rechts (➡️) angegeben)
 - Istzeit (Rot) & Sollzeit (Violett) / Meilensteine (Grün)
-- 2 Stunden Raster ( *1 Spalte = 2 Stunden (2h)* )
+-  2-Stundenblöcke ( *1 Spalte = 2 Stunden (2h)* )
 
 ![IPA Zeitplan IPERKA / Date : 2018 / Autor : Alpay Yildirim (Informieren,Planen,Entscheiden,Realisieren,Kontrollieren,Auswerten)](IPA-2018-Zeitplan.png)
 
-## Dokumentation 📘
+## Dokumentation 📘 ([IPA-2018-Alpay-Yildirim-Muster.pdf](IPA-2018-Alpay-Yildirim-Muster.pdf))
 
 ### Inhaltsverzeichnis
 - Vorwort ***5***
@@ -107,3 +106,21 @@ Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tage
        - MSSQL  ***73***
        - C#  ***74***
        - Views (cshtml)  ***109***
+
+
+## Präsentation 📙 ([IPA-2018-Präsentation.pdf](IPA-2018-Präsentation.pdf))
+
+### Details
+
+**Software : Office 365 Powerpoint (2018)**<br />
+**Folien Anzahl : 20 Folien**<br />
+**Dauer der Präsentation : ca. 17-18 Minuten**<br />
+**Sprache : Deutsch (Hochdeutsch)**
+
+### Inhaltsverzeichnis
+
+- Überblick
+- Vorgehen
+- Umsetzung
+- Resultat
+- Auswertung
