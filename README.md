@@ -124,3 +124,5 @@ Dies ist meine individuelle praktische Arbeit (**IPA**), die ich 2018 in 10 Tage
 - Umsetzung
 - Resultat
 - Auswertung
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
